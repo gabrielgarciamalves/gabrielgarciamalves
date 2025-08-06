@@ -23,8 +23,8 @@
 ---
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgarcia-PEC&layout=compact&text_color=daf7dc&bg_color=151515&hide_progress=true)](https://github.com/gabrielgarcia-PEC/github-readme-stats)
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=gabrielgarcia-PEC&repo=grocery-list&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/gabrielgarcia-PEC/grocery-list)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgarciamalves&layout=compact&text_color=daf7dc&bg_color=151515&hide_progress=true)](https://github.com/gabrielgarciamalves/github-readme-stats)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=gabrielgarciamalves&repo=grocery-list&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/gabrielgarciamalves/grocery-list)
 
 ⏳ **Year Progress:** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.20% as on ⏰ 5-Aug-2025
 
