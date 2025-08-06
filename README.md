@@ -8,7 +8,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Tech Lead of an Support Analyst Team – Focusing on Database Maintenance tasks working for a public-data Tech enterprise in Brazil 
 - 💻 I use daily: **.xml**, **.json**,  **.sql**
-- ⚡ Fun fact: I'm a little bit talk-much
+- ⚡ Fun fact: They say I talk too much for someone in IT 🤣
 - 🧑‍💻 Tech I work on:
 
 <p align="center">
